@@ -1,76 +1,88 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=2&section=header"/>
+
+<br>
+
 <div align="center">
+  <img/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Silkscreen&weight=700&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&lines=+Graduando+em+Engenharia+de+Software+%F0%9F%8E%93;Level+7+%E2%80%A2+XP%3A+7.400%2F10.000" alt="typing header"/>
+<div align="center">
+</div>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-2ecc71?style=for-the-badge&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/CLASSE-DEV-8b5cf6?style=for-the-badge&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/GUILDA-OPEN%20SOURCE-f59e0b?style=for-the-badge&labelColor=1e1e2e"/>
-
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Enginner;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 
-</td>
-</tr>
-</table>
-
-<br>
-
-## Skill tree
+##
 
 <div align="center">
+  <img />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jvezyk&theme=holi">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Jvezyk&layout=compact&theme=holi&count_private=true">
+  <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jvezyk&theme=holi"/>
+</div>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/Python-8b5cf6?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-06b6d4?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-f59e0b?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-ef4444?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2563eb?style=for-the-badge&logo=docker&logoColor=white"/>
 
-*(troque pelas suas — gere mais em [shields.io](https://shields.io))*
-
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  
 </div>
 
 <br>
-
-## Sala de troféus
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jvezyk&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" />
-</div>
-
 <br>
 
-## Painel de stats
-
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvezyk&layout=compact&theme=radical&hide_border=true&bg_color=1e1e2e&title_color=8b5cf6" height="165"/></td>
-</tr>
-</table>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jvezyk&theme=radical&hide_border=true&background=1e1e2e&ring=8b5cf6&fire=f59e0b"/>
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)]()
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)]()
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)]()
+  
 </div>
+</details>
 
-<br>
-
+##
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Jvezyk/Jvezyk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
+##
+
 <br>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Jvezyk&style=for-the-badge&color=8b5cf6&label=VISITANTES+DESTA+FASE"/>
-
-<br><br>
-<sub>obrigado(a) por passar por aqui, viajante 🎮</sub>
-
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Jvezyk&style=flat-square&color=#000080" /></p> 
 </div>
-<sub>obrigado pela visita, jogador(a) 🎮 — <code>continue?</code></sub>
-</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=2&section=footer"/>
+
