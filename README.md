@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2d42,100:8d5b4c&height=6" width="100%"/>
 
 <a href="https://github.com/SEU-USUARIO">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&pause=800&color=E8A33D&center=true&vCenter=true&width=600&lines=OI%2C+EU+SOU+João Vitor_;GRADUANDO+EM+ENG.+DE+SOFTWARE;TOCANDO%3A+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&pause=800&color=E8A33D&center=true&vCenter=true&width=600&lines=OI%2C+EU+SOU+João+Vitor_;GRADUANDO+EM+ENG.+DE+SOFTWARE;" alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8d5b4c,100:2b2d42&height=6" width="100%"/>
@@ -109,6 +109,16 @@ aberto.
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2500&pause=1000&color=8D5B4C&center=true&vCenter=true&width=500&lines=%F0%9F%8E%B5+Artista+1+-+M%C3%BAsica+favorita;%F0%9F%8E%B5+Artista+2+-+Outra+m%C3%BAsica;%F0%9F%8E%B5+Playlist+de+quando+t%C3%B4+codando" alt="now playing"/>
 
 *(quer o "now playing" real do Spotify, ao vivo? tem uma versão avançada — te explico no guia)*
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2d42,100:8d5b4c&height=6" width="100%"/>
+
+<div align="center">
+<sub>obrigado pela visita, jogador(a) 🎮 — <code>continue?</code></sub>
+</div>
 
 </div>
 
