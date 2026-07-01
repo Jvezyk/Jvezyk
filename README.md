@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2d42,100:8d5b4c&height=6" width="100%"/>
 
 <a href="https://github.com/SEU-USUARIO">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&pause=800&color=E8A33D&center=true&vCenter=true&width=600&lines=OI%2C+EU+SOU+SEU+NOME_;GRADUANDO+EM+ENG.+DE+SOFTWARE;TOCANDO%3A+SEU+ARTISTA+FAVORITO;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&pause=800&color=E8A33D&center=true&vCenter=true&width=600&lines=OI%2C+EU+SOU+João Vitor_;GRADUANDO+EM+ENG.+DE+SOFTWARE;TOCANDO%3A+" alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8d5b4c,100:2b2d42&height=6" width="100%"/>
