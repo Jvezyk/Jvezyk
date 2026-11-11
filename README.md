@@ -89,7 +89,7 @@ Projeto acadêmico de gestão e compartilhamento de conteúdos entre estudantes 
 
 `Python` `JavaScript` `PyUnit` `MkDocs`
 
-**Projeto de equipe · Repositório a vincular**
+**[Ver repositório da equipe →](https://github.com/FGA0138-MDS-Ajax/2026.1-T03-Turing)**
 
 </td>
 <td width="50%" valign="top">
