@@ -1,105 +1,116 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=2&section=header"/>
+<!-- Portfólio de João Vitor Justo Gonçalves -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=175&color=0:0B1220,100:164E63&text=Jo%C3%A3o%20Vitor%20Justo&fontColor=FFFFFF&fontSize=42&fontAlignY=43&desc=Engenharia%20de%20Software%20%7C%20UnB&descAlignY=70&descSize=18" width="100%" alt="João Vitor Justo — Engenharia de Software na UnB" />
 
-<br>
+  <p><strong>Desenvolvimento de software · Backend · APIs · Automação</strong></p>
 
-## 👨‍💻 Projetos em destaque
+  <p>
+    <a href="https://www.linkedin.com/in/joaovitorjusto"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:joaovitorjusto3@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="portfolio/README.md"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver%20projetos-0F766E?style=flat-square&logo=github&logoColor=white" alt="Portfólio" /></a>
+  </p>
+</div>
 
-Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB)**, com interesse em desenvolvimento de software, APIs e automação.
+---
 
-| Projeto | Foco técnico | Conheça |
-| --- | --- | --- |
-| **Oficina Chat** | Django, automação e triagem de atendimento com IA (protótipo) | [Repositório](https://github.com/Jvezyk/oficina_chat) |
-| **Naju Arte** | E-commerce, backend e integração de pagamentos | [Estudo de caso](portfolio/naju-arte.md) |
-| **CCA Flow** | CRM, Docker, PostgreSQL e processos de desenvolvimento (baseado no BottleCRM) | [Estudo de caso](portfolio/cca-flow.md) |
-| **N.E.X.O.** | Assistente virtual, API e síntese de voz | [Repositório](https://github.com/Jvezyk/N.E.X.O) |
+### Sobre mim
 
-📁 **[Ver meu portfólio técnico](portfolio/README.md)**
+Sou estudante do **6º semestre de Engenharia de Software na Universidade de Brasília (UnB)**. Gosto de transformar problemas reais em soluções de software, com atenção à organização do código, à documentação e à evolução contínua dos projetos.
 
-*Os estudos de caso de Naju Arte e CCA Flow são públicos, mas o código-fonte desses projetos permanece privado.*
+Atualmente desenvolvo e estudo aplicações web, integrações entre sistemas e automação de processos, usando principalmente **Python, Django, APIs REST, JavaScript e PostgreSQL**.
+
+### Projetos selecionados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛠️ Oficina Chat
+**Automação de atendimento · Backend**
+
+Protótipo de assistente para oficina automotiva, com foco em triagem de solicitações, organização de informações do veículo e encaminhamento ao atendimento humano.
+
+`Python` `Django` `PostgreSQL` `IA`
+
+**[Explorar repositório →](https://github.com/Jvezyk/oficina_chat)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛒 Naju Arte
+**E-commerce · Aplicação web**
+
+Plataforma de venda de produtos artesanais em desenvolvimento, com organização de catálogo, pedidos e integração de pagamentos.
+
+`Django` `Next.js` `PostgreSQL`
+
+**[Ler estudo de caso →](portfolio/naju-arte.md)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🗂️ CCA Flow
+**CRM · Engenharia de software**
+
+Projeto de adaptação do **BottleCRM**, software livre, para processos de correspondência bancária. Meu foco inclui requisitos, documentação, ambiente de desenvolvimento e evolução do domínio.
+
+`Django` `Docker` `PostgreSQL` `Git`
+
+**[Ler estudo de caso →](portfolio/cca-flow.md)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 N.E.X.O.
+**Assistente virtual · Integração de sistemas**
+
+Protótipo interativo com recursos de inteligência artificial, comunicação via API, processamento de respostas e interação por voz.
+
+`FastAPI` `React` `Python` `IA`
+
+**[Explorar repositório →](https://github.com/Jvezyk/N.E.X.O)**
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <strong><a href="portfolio/README.md">Conhecer todos os estudos de caso e projetos →</a></strong>
+</p>
+
+<sub>Os estudos de caso do Naju Arte e do CCA Flow são públicos, mas o código-fonte desses projetos permanece privado. O CCA Flow é baseado no BottleCRM; as contribuições próprias são identificadas na documentação. Projetos em desenvolvimento podem conter funcionalidades ainda não finalizadas.</sub>
+
+---
+
+### Tecnologias e ferramentas
+
+**Linguagens e frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,react,nextjs,html,css&theme=dark" alt="Python, JavaScript, TypeScript, C, React, Next.js, HTML e CSS" />
+</p>
+
+**Backend, dados e ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,postgres,mysql,docker,git,github,linux&theme=dark" alt="Django, Flask, FastAPI, PostgreSQL, MySQL, Docker, Git, GitHub e Linux" />
+</p>
+
+### Como trabalho
+
+- **Construção:** APIs, aplicações web, modelagem de dados e integrações.
+- **Qualidade:** testes, documentação técnica e atenção à manutenção do código.
+- **Colaboração:** Git, branches por funcionalidade, issues e pull requests.
+- **Aprendizado:** evolução contínua por projetos acadêmicos e pessoais.
 
 ---
 
 <div align="center">
-  <img/>
+  <strong>Vamos conversar?</strong>
+  <p>Estou aberto a oportunidades de estágio em tecnologia e a colaborar em projetos de software.</p>
+  <a href="mailto:joaovitorjusto3@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/joaovitorjusto">LinkedIn</a> ·
+  <a href="https://github.com/Jvezyk?tab=repositories">Repositórios</a>
 </div>
-
-<div align="center">
-</div>
-
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Enginner;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-
-##
-
-<div align="center">
-  <img />
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jvezyk&theme=holi">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Jvezyk&layout=compact&theme=holi&count_private=true">
-  <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jvezyk&theme=holi"/>
-</div>
-
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  
-</div>
-
-<br>
-<br>
-
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](joaovitorjusto3@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)]()
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)]()
-  
-</div>
-</details>
-
-##
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Jvezyk/Jvezyk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-##
-
-<br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Jvezyk&style=flat-square&color=#000080" /></p> 
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=2&section=footer"/>
-
