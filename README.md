@@ -82,7 +82,7 @@ Protótipo interativo com recursos de inteligência artificial, comunicação vi
 <tr>
 <td width="50%" valign="top">
 
-#### 📚 GoStudy
+## GoStudy
 **Plataforma educacional · Desenvolvimento colaborativo**
 
 Projeto acadêmico de gestão e compartilhamento de conteúdos entre estudantes e professores. Participei do desenvolvimento em equipe, utilizando versionamento, testes automatizados e documentação técnica.
@@ -94,7 +94,7 @@ Projeto acadêmico de gestão e compartilhamento de conteúdos entre estudantes 
 </td>
 <td width="50%" valign="top">
 
-#### 🐭 Micromouse — PI1
+## Micromouse — PI1
 **Robótica · Telemetria e software**
 
 Projeto interdisciplinar em equipe voltado ao desenvolvimento e integração de um robô. Minha atuação envolveu a parte de software, incluindo interface de telemetria, integração com backend e testes de funcionalidades.
