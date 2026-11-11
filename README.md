@@ -25,7 +25,7 @@ Atualmente desenvolvo e estudo aplicações web, integrações entre sistemas e 
 <tr>
 <td width="50%" valign="top">
 
-#### 🛠️ Oficina Chat
+## Oficina Chat
 **Automação de atendimento · Backend**
 
 Protótipo de assistente para oficina automotiva, com foco em triagem de solicitações, organização de informações do veículo e encaminhamento ao atendimento humano.
@@ -37,7 +37,7 @@ Protótipo de assistente para oficina automotiva, com foco em triagem de solicit
 </td>
 <td width="50%" valign="top">
 
-#### 🛒 Naju Arte
+## Naju Arte
 **E-commerce · Aplicação web**
 
 Plataforma de venda de produtos artesanais em desenvolvimento, com organização de catálogo, pedidos e integração de pagamentos.
@@ -51,7 +51,7 @@ Plataforma de venda de produtos artesanais em desenvolvimento, com organização
 <tr>
 <td width="50%" valign="top">
 
-#### 🗂️ CCA Flow
+## CCA Flow
 **CRM · Engenharia de software**
 
 Projeto de adaptação do **BottleCRM**, software livre, para processos de correspondência bancária. Meu foco inclui requisitos, documentação, ambiente de desenvolvimento e evolução do domínio.
@@ -63,7 +63,7 @@ Projeto de adaptação do **BottleCRM**, software livre, para processos de corre
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 N.E.X.O.
+## N.E.X.O.
 **Assistente virtual · Integração de sistemas**
 
 Protótipo interativo com recursos de inteligência artificial, comunicação via API, processamento de respostas e interação por voz.
