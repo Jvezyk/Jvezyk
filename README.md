@@ -76,6 +76,39 @@ Protótipo interativo com recursos de inteligência artificial, comunicação vi
 </tr>
 </table>
 
+### Projetos acadêmicos em equipe
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📚 GoStudy
+**Plataforma educacional · Desenvolvimento colaborativo**
+
+Projeto acadêmico de gestão e compartilhamento de conteúdos entre estudantes e professores. Participei do desenvolvimento em equipe, utilizando versionamento, testes automatizados e documentação técnica.
+
+`Python` `JavaScript` `PyUnit` `MkDocs`
+
+**Projeto de equipe · Repositório a vincular**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐭 Micromouse — PI1
+**Robótica · Telemetria e software**
+
+Projeto interdisciplinar em equipe voltado ao desenvolvimento e integração de um robô. Minha atuação envolveu a parte de software, incluindo interface de telemetria, integração com backend e testes de funcionalidades.
+
+`React` `TypeScript` `FastAPI` `Git`
+
+**[Ver repositório da equipe →](https://github.com/fcte-pi1/2026.2_PI1_Grupo2_Diogo)**
+
+</td>
+</tr>
+</table>
+
+<sub>Projetos realizados em colaboração com outros estudantes. As descrições destacam minha participação e não atribuem a mim todo o trabalho da equipe.</sub>
+
 <p align="center">
   <strong><a href="portfolio/README.md">Conhecer todos os estudos de caso e projetos →</a></strong>
 </p>
