@@ -2,6 +2,23 @@
 
 <br>
 
+## 👨‍💻 Projetos em destaque
+
+Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB)**, com foco em desenvolvimento de software, APIs, automação e soluções para problemas reais.
+
+| Projeto | O que demonstra | Acesso |
+| --- | --- | --- |
+| **Oficina Chat** | Backend em Django, triagem de atendimento e automação com IA (protótipo) | [Repositório e documentação](https://github.com/Jvezyk/oficina_chat) |
+| **Naju Arte** | Desenvolvimento de e-commerce, integração de sistemas e pagamentos | [Estudo de caso público](portfolio/naju-arte.md) |
+| **CCA Flow** | Engenharia de software, documentação, Docker e modelagem de processos; adaptação do BottleCRM | [Estudo de caso público](portfolio/cca-flow.md) |
+| **N.E.X.O.** | Assistente virtual, APIs, streaming e voz | [Repositório público](https://github.com/Jvezyk/N.E.X.O) |
+
+📚 **[Ver portfólio técnico completo](portfolio/README.md)**
+
+> Os estudos de caso do Naju Arte e do CCA Flow são públicos; seus repositórios de código continuam privados.
+
+---
+
 <div align="center">
   <img/>
 </div>
