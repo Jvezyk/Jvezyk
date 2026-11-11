@@ -21,7 +21,7 @@ Sou estudante do **6º semestre de Engenharia de Software na UnB**. Gosto de tra
 Aqui você encontra tanto projetos pessoais quanto trabalhos feitos em equipe. Valorizo código organizado, documentação, testes e colaboração.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=52&color=0:0C4A6E,100:0D9488&text=PROJETOS%20EM%20DESTAQUE&fontColor=FFFFFF&fontSize=18" width="85%" alt="Projetos em destaque" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:0C4A6E,100:0D9488&text=PROJETOS%20EM%20DESTAQUE&fontColor=FFFFFF&fontSize=14" width="100%" alt="Projetos em destaque" />
 </div>
 
 ## Oficina Chat · Atendimento inteligente
@@ -60,9 +60,11 @@ Python Django PostgreSQL Docker APIs REST Automação
 
 <br/>
 
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=52&color=0:164E63,100:155E75&text=PROJETOS%20EM%20EQUIPE&fontColor=FFFFFF&fontSize=18" width="85%" alt="Projetos acadêmicos em equipe" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:0C4A6E,100:0D9488&text=PROJETOS%20EM%20EQUIPE&fontColor=FFFFFF&fontSize=14" width="100%" alt="Projetos em equipe" />
 </div>
+
 
 ## GoStudy · Plataforma acadêmica
 > **Desenvolvimento colaborativo** — Sistema de gestão e compartilhamento de conteúdos para estudantes e professores, desenvolvido com colegas. Participei de atividades de implementação, testes automatizados e documentação técnica.
